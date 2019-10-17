@@ -47,7 +47,7 @@ Here's Drillbit in action again! The installation is literally done by dragging 
 
 You are right. Adblock Plus has the possibility to [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element), and you should use this function whenever you can.
 
-But using this function adds permanent entries to your Blacklist. Having a big filter list can slow down your browser.
+But every you do, it adds a permanent entry to your Blacklist. Having a big filter list can slow down your browser.
 
 This is where Drillbit comes in. It gives you the same functionality *without adding clutter to your Blacklist*.
 
