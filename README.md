@@ -21,7 +21,7 @@ Websites that use fullscreeen overlays use JavaScript to mainly do two things:
 
 ## How do I install Drillbit?
 
-- [Download Drillbit] (https://github.com/johnnyawesome/Drillbit/archive/master.zip) and unpack it
+- [Download Drillbit](https://github.com/johnnyawesome/Drillbit/archive/master.zip) and unpack it
 - 
 
 
