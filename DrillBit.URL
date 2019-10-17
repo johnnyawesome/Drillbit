@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL=javascript:(function(){document.body.style.cursor="crosshair";document.body.onmouseover=mouseEvent2=>{mouseEvent2.target.style.border="medium solid red";mouseEvent2.target.style.backgroundColor="yellow"};document.body.onmouseout=mouseEvent3=>{mouseEvent3.target.style.border="none";mouseEvent3.target.style.backgroundColor="initial"};for(let element of Array.from(document.getElementsByTagName("a"))){element.addEventListener("click",deactivateLinks)};window.onclick=mouseEvent=>{mouseEvent.target.remove();document.body.style.cursor="auto";document.body.onmouseover=mouseEvent3=>mouseEvent3.target.style.border="none";for(let element of Array.from(document.getElementsByTagName("a"))){element.removeEventListener("click",deactivateLinks)} window.onclick=undefined;document.body.onmouseout=undefined;document.body.style.overflowY="visible";document.documentElement.style.overflowY="visible"};function deactivateLinks(event){event.preventDefault()}})()
+IDList=
+HotKey=0
+IconFile=
+IconIndex=0
