@@ -42,3 +42,17 @@ __**IMPORTANT: These fullscreen overlays often contain 2-3 layers on top of each
 Here's Drillbit in action again! The installation is literally done by dragging and dropping DrillBit.URL from the ZIP-File you can [download here](https://github.com/johnnyawesome/Drillbit/archive/master.zip) into your browser's favorite bar:
 
 ![Drillbit Demo](https://github.com/johnnyawesome/Drillbit/blob/master/DrillBitDemo.gif)
+
+## Wait! AdblockPlus can do this - Why do I need your Bookmarklet?
+
+You are right. Adblock Plus has the possibility to [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element), and you should use this function whenever you can.
+
+But using this function adds permanent entries to your Blacklist. Having a big filter list can slow down your browser.
+
+This is where Drillbit comes in. It gives you the same functionality *without adding clutter to your Blacklist*.
+
+- Use Drillbit if you want to remove something from a website you don't visit often.
+- Use Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) when you want to permanently remove something
+
+- If you're browsing through Google Results, use Drillbit, because you'll probarbly never return to these sites again
+- On the News-Sites you use daily, Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) is the right tool
