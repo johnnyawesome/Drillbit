@@ -16,8 +16,14 @@ Websites that use fullscreeen overlays use JavaScript to mainly do two things:
 
 ## What does Drillbit do?
 
-- asd
-
-## How do I use Drillbit?
+- Drillbit lets you delete a single element at the time
+- It also restores your scrollbars every time you use it
 
 ## How do I install Drillbit?
+
+- [Download Drillbit] (https://github.com/johnnyawesome/Drillbit/archive/master.zip) and unpack it
+- 
+
+
+
+## How do I use Drillbit?
