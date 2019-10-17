@@ -53,6 +53,5 @@ This is where Drillbit comes in. It gives you the same functionality *without ad
 
 - Use Drillbit if you want to remove something from a website you don't visit often.
 - If you're browsing through Google Results, use Drillbit, because you'll probarbly never return to these sites again
-
-- Use Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) when you want to permanently remove something
-- On the News-Sites you use daily, Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) is the right tool
+- Use Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) if you want to permanently remove something
+- On the websites you use daily, Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) is the right tool
