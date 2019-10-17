@@ -34,6 +34,8 @@ Websites that use fullscreeen overlays use JavaScript to mainly do two things:
 - That's how you know which element is currently selected
 - If you left-click this element, you'll remove it
 
-__**IMPORTANT: These fullscreen overlays often contain 2-3 layers on top of each other. Just run drillbit as many times as you need!**__
+__**IMPORTANT: These fullscreen overlays often contain 2-3 layers on top of each other. Just run drillbit as many times as you need! It will drill through one layer at the time until they're all gone!**__
 
-hkjl
+Here's Drillbit in action again:
+
+![Drillbit Demo](https://github.com/johnnyawesome/Drillbit/blob/master/DrillBitDemo.gif)
