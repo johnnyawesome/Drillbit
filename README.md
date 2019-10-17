@@ -8,7 +8,7 @@ Now, we get tormented with Fullscreen Overlays we cannot skip*
 
 ![Drillbit Demo](https://github.com/johnnyawesome/Drillbit/blob/master/DrillBitDemo.gif)
 
-## How do  fullscreen overlays work?
+## How do fullscreen overlays work?
 
 Websites that use fullscreeen overlays use JavaScript to mainly do two things:
 
@@ -37,7 +37,7 @@ Basically, Drillbit lets you drill a hole through these overlays.
 - That's how you know which element is currently selected
 - If you click on this element, you'll remove it
 
-__**IMPORTANT: These fullscreen overlays often contain 2-3 layers on top of each other. Just run drillbit as many times as you need! It will drill through one layer at the time until they're all gone!**__
+__**IMPORTANT: These fullscreen overlays often contain 2-3 layers on top of each other. Just run Drillbit as many times as you need! It will drill through one layer at the time until they're all gone!**__
 
 Here's Drillbit in action again! The installation is literally done by dragging and dropping DrillBit.URL from the ZIP-File you can [download here](https://github.com/johnnyawesome/Drillbit/archive/master.zip) into your browser's favorite bar:
 
