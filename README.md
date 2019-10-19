@@ -1,5 +1,5 @@
 # Drillbit
-Drill through annoying fullscreen overlays!
+Drill through annoying fullscreen overlays and zap annoying ads!
 
 *In the early 2000's Popup-Windows were so rampant that nowadays every webbrowser has an integrated Popup-Filter.
 Now, we get tormented with Fullscreen Overlays we cannot skip*
