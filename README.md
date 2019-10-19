@@ -8,6 +8,11 @@ Now, we get tormented with Fullscreen Overlays we cannot skip*
 
 ![Drillbit Demo](https://github.com/johnnyawesome/Drillbit/blob/master/DrillBitDemo.gif)
 
+## More Information
+
+[I blogged about this project in more detail](https://github.com/johnnyawesome/Drillbit/archive/master.zip)
+
+
 ## How do fullscreen overlays work?
 
 Websites that use fullscreeen overlays use JavaScript to mainly do two things:
