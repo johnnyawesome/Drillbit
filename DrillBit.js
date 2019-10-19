@@ -2,7 +2,7 @@
     //Changes the cursor to crosshairs
     document.body.style.cursor = "crosshair";
 
-    //Ease of use: Adds a red border to the element the cursor is hovering over
+    //Ease of use: Adds a red border and yellow background to the element the cursor is hovering over
     document.body.onmouseover = mouseEvent2 => {
         mouseEvent2.target.style.border = "medium solid red";
         mouseEvent2.target.style.backgroundColor  = "yellow";
