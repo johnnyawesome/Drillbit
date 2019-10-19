@@ -10,7 +10,7 @@ Now, we get tormented with Fullscreen Overlays we cannot skip*
 
 ## More Information
 
-[I blogged about this project in more detail](https://github.com/johnnyawesome/Drillbit/archive/master.zip)
+[I blogged about this project in more detail](https://breaksome.tech/drillbit---coding-your-own-element-blocker/)
 
 
 ## How do fullscreen overlays work?
