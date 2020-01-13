@@ -52,11 +52,12 @@ Here's Drillbit in action again! The installation is literally done by dragging 
 
 You are right. Adblock Plus has the possibility to [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element), and you should use this function whenever you can.
 
-But every you do, it adds a permanent entry to your Blacklist. Having a big filter list can slow down your browser.
+But every time you do this, it adds a *permanent entry* to your Blacklist. *Having a big filter list will slow down your browser*.
 
 This is where Drillbit comes in. It gives you the same functionality *without adding clutter to your Blacklist*.
 
 - Use Drillbit if you want to remove something from a website you don't visit often.
-- If you're browsing through Google Results, use Drillbit, because you'll probarbly never return to these sites again
+- If you're browsing through Google Results, use Drillbit, because you'll probarbly never return to these sites.
 - Use Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) if you want to permanently remove something
 - On the websites you use daily, Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) is the right tool
+- On sites you probably won't return to, Drillbit is the clear winner
