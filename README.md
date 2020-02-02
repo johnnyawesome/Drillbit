@@ -61,3 +61,7 @@ This is where Drillbit comes in. It gives you the same functionality *without ad
 - Use Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) if you want to permanently remove something
 - On the websites you use daily, Adblock Plus [Block elements](https://help.eyeo.com/adblockplus/block-item-or-element) is the right tool
 - On sites you probably won't return to, Drillbit is the clear winner
+
+## More Information
+
+[I blogged about this project in more detail](https://breaksome.tech/drillbit-coding-your-own-element-blocker/)
