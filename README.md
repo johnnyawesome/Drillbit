@@ -29,8 +29,6 @@ Basically, Drillbit lets you drill a hole through these overlays.
 
 ## How do I install Drillbit?
 
-[Download Drillbit Test](https://raw.githubusercontent.com/johnnyawesome/Drillbit/master/DrillBit.URL)
-
 - [Download Drillbit](https://github.com/johnnyawesome/Drillbit/archive/master.zip) and unpack it
 - There is a file called DrillBit.URL in the folder you just unpacked
 - Drag this file into the Favorites Bar of your Browser as shown in the animation above
